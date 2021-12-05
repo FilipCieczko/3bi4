@@ -31,11 +31,11 @@ The above functionalities are tested and work according to their roles.
 
 ## Entity Relationship Diagram
 
-[link to diagram ERD in jpg: https://github.com/FilipCieczko/3bi4/blob/main/4/United%20Diagram.png
+link to diagram ERD in jpg: https://github.com/FilipCieczko/3bi4/blob/main/4/United%20Diagram.png
 
 ## Organizational structure diagram
 
-[link to diagram OSD in jpg][osd]
+link to diagram OSD in jpg: https://github.com/FilipCieczko/3bi4/blob/main/4/United%20Diagram(1).png
 
 ## Cpecific functionalities
 
