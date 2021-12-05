@@ -58,19 +58,13 @@ A subsection that presents a detailed description of the individual functionalit
 
 ## Layout for form in HTML
 
-[link to layout][form]
+link to layout: https://github.com/FilipCieczko/3bi4/blob/main/4/find.png
 
-## Sketch a database without establishing a relationship
 
-[link to sketch a database][db]
-
-## Example of an empty wireframe of the main form on a subpage
-
-[Wireframe empty][wireframeExample]
 
 ## Wireframe the main form on the application subpage
 
-[Wireframe the main form][wireframeMain]
+Wireframe the main form: https://github.com/FilipCieczko/3bi4/blob/main/4/site.png
 
  [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
  
